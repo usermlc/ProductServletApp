@@ -89,4 +89,3 @@ ProductServletApp/
 ## Ліцензія
 
 Цей проект ліцензовано згідно з MIT License. Дивіться файл [LICENSE](LICENSE) для деталей.
-```
